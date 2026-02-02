@@ -1,3 +1,2 @@
 <?php
-header('Content-Type: application/json');
-echo json_encode(["status"=>"ok"]);
+echo "PHP is working on Render";
